@@ -1,0 +1,1 @@
+Este es un archivo de solo lectura que demuestra el uso de los cambios
